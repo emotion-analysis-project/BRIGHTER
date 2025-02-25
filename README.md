@@ -1,5 +1,7 @@
 # README: Multilingual Emotion Classification with Language Models
 
+> The official results can be found on [Google Drive](https://drive.google.com/drive/folders/1cu3ucbNp-f8X5G98wOw_IFjTWGwpoy4u?usp=sharing).
+
 ## Overview
 
 This repository contains scripts for training, evaluating, and analyzing language models (LMs) for multilingual emotion classification. The experiments include both fine-tuned transformer models and large language models (LLMs) evaluated in a zero-shot or few-shot setting. The project supports:
