@@ -1,4 +1,5 @@
-# README: Multilingual Emotion Classification with Language Models
+# BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages
+
 
 > The official results can be found on [Google Drive](https://drive.google.com/drive/folders/1cu3ucbNp-f8X5G98wOw_IFjTWGwpoy4u?usp=sharing).
 
