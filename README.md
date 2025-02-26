@@ -87,7 +87,7 @@ This script:
 
 ### LLM Evaluation Script (`llms.py`)
 
-Instead of fine-tuning, `llms.py` evaluates LLMs (like LLaMA, Mixtral, DeepSeek) in a zero-shot or few-shot setting.
+Instead of fine-tuning, `llms.py` evaluates LLMs (like LLaMA, Mixtral, DeepSeek) in a zero-shot or few-shot setting as well as ablations regarding number of few-shot examples, topk, and prompts in English vs the native languages.
 
 #### **Run LLM Evaluation:**
 ```bash

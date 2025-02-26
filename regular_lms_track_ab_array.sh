@@ -1,6 +1,5 @@
 #!/bin/bash -l
 #SBATCH --job-name=track_ab_lm_array
-#SBATCH --account=etechnik_gpu
 #SBATCH --time=2-08:00:00
 #SBATCH --gpus=1
 #SBATCH -N 1

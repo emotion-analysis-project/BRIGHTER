@@ -1,7 +1,6 @@
 #!/bin/bash -l
 #SBATCH --job-name=track_c_lm_array
 #SBATCH --time=2-08:00:00
-#SBATCH --partition=gpu
 #SBATCH --gpus=1
 #SBATCH -N 1
 #SBATCH --array=0-5
